@@ -2,3 +2,5 @@ color
 	voilet
 	Green
 	Red
+	
+Hi from git training session	
